@@ -1,0 +1,3 @@
+[submodule "que_module"]
+	path = que_module
+	url = https://github.com/Nshu/que_module
